@@ -1,4 +1,4 @@
-package amazon.deadlink.checker.deadlink.checker;
+package code;
 
 import java.awt.AWTException;
 import java.awt.Robot;
